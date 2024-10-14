@@ -26,7 +26,7 @@ Possible KPIs include (to get you started, but not limited to):
 
 # **Overview of Call Center Dashboard :** 
 
-## **Dashboard 1 :**
+## **Dashboard 1 Insights :**
 
 - **Total Incoming Calls :** Displayed as a large numeric value, the dashboard shows 5,000 total incoming calls, indicating the volume of interactions received.
 
@@ -45,7 +45,7 @@ Possible KPIs include (to get you started, but not limited to):
 - **Count of Answered vs. Month :** A clustered bar chart displays the count of calls answered and not answered each month (January, February, and March). Yellow represents answered calls, and red represents those not answered, with each month showing a similar pattern of call distribution.
 
 
-## **Dashboard 2 :**
+## **Dashboard 2 Insights:**
 
 - **Count of Resolved Issues :** A donut chart indicates that 72.92% of issues are resolved (yellow segment), while 27.08% remain unresolved (red segment), giving a visual representation of the resolution rate.
 
@@ -66,8 +66,12 @@ Possible KPIs include (to get you started, but not limited to):
 
 # **Dashboard :**
 
+## **Dashboard 1 :**
+
 ![WhatsApp Image 2024-10-14 at 1 11 40 PM (1)](https://github.com/user-attachments/assets/68667997-561c-4507-af03-69ef56d83bc0)
 
+
+## **Dashboard 1 :**
 
 ![WhatsApp Image 2024-10-14 at 1 11 40 PM](https://github.com/user-attachments/assets/22900b45-b2ca-475c-9471-a70c27870c41)
 
