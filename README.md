@@ -77,7 +77,7 @@ Possible KPIs include (to get you started, but not limited to):
 
 
 
-#🔑 **Final Recommendation :**
+# 🔑 **Final Recommendation :**
 
 
 **1. Improve Response Time :** Reducing the average speed of answer from 67.52 seconds could significantly enhance customer satisfaction. Implementing better call routing, increasing staffing during peak times, or using automation for initial interactions could help achieve this.
