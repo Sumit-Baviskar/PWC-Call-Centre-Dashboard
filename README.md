@@ -1,15 +1,15 @@
-# PWC-Call-Centre-Dashboard
+# 📗 PWC Call Centre Dashboard 📗
 
-# **Introduction :**
+# 📗 **Introduction :**
 
 The Call Centre Dashboard is developed as part of a PwC job simulator project, designed to provide a detailed view of call center performance metrics. It serves as a centralized platform for visualizing key data such as total incoming calls, average speed of response, total talk duration, and customer satisfaction ratings. This dashboard allows users to delve into specific aspects of call center operations, such as the distribution of resolved vs. unresolved cases, the rate of answered versus abandoned calls, and trends in customer queries by topic. The intuitive interface and visual elements make it easy to identify patterns and trends in call center activities.
 
-# **Purpose :**
+# 📗 **Purpose :**
 
 The purpose of the Call Centre Dashboard in this PwC job simulator is to equip call center managers and analysts with the tools they need to evaluate operational efficiency and enhance customer service delivery. By integrating metrics like resolution rates, average answer speed, and satisfaction ratings, the dashboard aids in identifying bottlenecks and areas that require attention. It enables the team to analyze data at various granularities, from agent performance to monthly trends, allowing for more precise management of resources and strategies. Ultimately, this dashboard supports data-driven decision-making, enabling call center teams to improve response times, optimize issue resolution processes, and achieve higher levels of customer satisfaction. It also provides valuable insights for strategic planning, ensuring that the call center meets its service goals and maintains a high standard of customer support.
 
 
-# **Task :**
+# 📗 **Task :**
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset :
 
 Possible KPIs include (to get you started, but not limited to):
@@ -24,9 +24,9 @@ Possible KPIs include (to get you started, but not limited to):
    
 **5. Agent’s performance quadrant -> average handle time (talk duration) vs calls answered**
 
-# **Overview of Call Center Dashboard :** 
+# 📗**Overview of Call Center Dashboard : 📗** 
 
-## **Dashboard 1 Insights :**
+## 🔐 **Dashboard 1 Insights :** 🔐
 
 - **Total Incoming Calls :** Displayed as a large numeric value, the dashboard shows 5,000 total incoming calls, indicating the volume of interactions received.
 
@@ -45,7 +45,7 @@ Possible KPIs include (to get you started, but not limited to):
 - **Count of Answered vs. Month :** A clustered bar chart displays the count of calls answered and not answered each month (January, February, and March). Yellow represents answered calls, and red represents those not answered, with each month showing a similar pattern of call distribution.
 
 
-## **Dashboard 2 Insights:**
+## 🔐 **Dashboard 2 Insights:** 🔐
 
 - **Count of Resolved Issues :** A donut chart indicates that 72.92% of issues are resolved (yellow segment), while 27.08% remain unresolved (red segment), giving a visual representation of the resolution rate.
 
@@ -64,20 +64,20 @@ Possible KPIs include (to get you started, but not limited to):
 - **Count of Answered (Y/N) by Satisfaction Rating :** A horizontal bar chart breaks down the number of calls answered based on satisfaction ratings from 1 to 5. Ratings of 3, 4, and 5 have the highest number of calls answered, while ratings of 1 and 2 have lower counts.
 
 
-# **Dashboard :**
+#  **Dashboard :**
 
-## **Dashboard 1 :**
+## 🔑**Dashboard 1 :**
 
 ![WhatsApp Image 2024-10-14 at 1 11 40 PM (1)](https://github.com/user-attachments/assets/68667997-561c-4507-af03-69ef56d83bc0)
 
 
-## **Dashboard 1 :**
+## 🔑**Dashboard 1 :**
 
 ![WhatsApp Image 2024-10-14 at 1 11 40 PM](https://github.com/user-attachments/assets/22900b45-b2ca-475c-9471-a70c27870c41)
 
 
 
-# **Final Recommendation :**
+#🔑 **Final Recommendation :**
 
 
 **1. Improve Response Time :** Reducing the average speed of answer from 67.52 seconds could significantly enhance customer satisfaction. Implementing better call routing, increasing staffing during peak times, or using automation for initial interactions could help achieve this.
@@ -95,7 +95,7 @@ Possible KPIs include (to get you started, but not limited to):
 
 
 
-# **Conclusion :**
+# 🔑**Conclusion :**
 
 The Call Centre Dashboard, part of the PwC job simulator, provides a comprehensive view of call center performance through clear visualizations and detailed metrics. It highlights key areas such as resolution rates, response speed, and satisfaction ratings, offering valuable insights for managers to optimize operations. By focusing on improving response times, enhancing agent training, and addressing unresolved cases, the call center can achieve higher customer satisfaction and more efficient service delivery. Utilizing this data-driven approach ensures that the call center is well-equipped to meet customer needs and adapt to evolving service requirements, ultimately driving better customer retention and operational success.
 
