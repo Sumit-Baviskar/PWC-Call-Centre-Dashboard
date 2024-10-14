@@ -24,6 +24,44 @@ Possible KPIs include (to get you started, but not limited to):
    
 **5. Agent’s performance quadrant -> average handle time (talk duration) vs calls answered**
 
+# **Overview of Call Center Dashboard :** 
+
+## **Dashboard 1 :**
+
+- **Total Incoming Calls :** Displayed as a large numeric value, the dashboard shows 5,000 total incoming calls, indicating the volume of interactions received.
+
+- **Average Speed of Answer :** The metric is shown as 67.52 seconds, representing the average time taken to answer incoming calls.
+
+- **Total Talk Duration :** A numeric value of 4,054 minutes, indicating the total time spent on calls.
+
+- **Average of Satisfaction Rating :** Represented by a circular gauge, the average satisfaction rating is 3.40 out of a scale from 0.00 to 6.81, suggesting moderate customer satisfaction levels.
+
+- **Sum of Resolved Cases :** A donut chart illustrates the proportion of resolved cases. 81.08% of cases are resolved (yellow segment), while 18.92% remain unresolved (red segment).
+
+- **Sum of Call Answered vs. Abandoned :** Another donut chart, with similar percentages, shows that 81.08% of calls were answered (yellow) and 18.92% were abandoned (red).
+
+- **Count of Answered vs. Topic :** A bar chart provides insights into the topics of calls answered. It categorizes the issues into Streaming, Technical Support, Payment-Related, Admin Support, and Contract-Related, with varying numbers of answered calls in each category. Streaming has the highest count, while Contract-Related has the lowest.
+
+- **Count of Answered vs. Month :** A clustered bar chart displays the count of calls answered and not answered each month (January, February, and March). Yellow represents answered calls, and red represents those not answered, with each month showing a similar pattern of call distribution.
+
+
+## **Dashboard 2 :**
+
+- **Count of Resolved Issues :** A donut chart indicates that 72.92% of issues are resolved (yellow segment), while 27.08% remain unresolved (red segment), giving a visual representation of the resolution rate.
+
+- **Count of Call vs. Issues :** Another donut chart shows the breakdown of calls by issue type, with percentages close to 20% each for Streaming, Technical Support, Payment-Related, Admin Support, and Contract-Related issues, indicating a fairly even distribution of call topics.
+
+- **Agent Performance Table :** A table lists individual performance metrics for agents like Becky, Dan, Diane, Greg, Jim, Joe, Martha, and Stewart. The table includes:
+
+- **Answered Count :** The number of calls each agent answered.
+
+- **Resolved Count :** The number of calls resolved by each agent.
+
+- **Average Satisfaction Rating :** Each agent’s average customer satisfaction score, ranging from around 3.33 to 3.45.
+
+- **Average Speed of Answer in Seconds :** Indicates how quickly each agent responds to calls, with values ranging from 65.33 to 70.99 seconds.
+
+- **Count of Answered (Y/N) by Satisfaction Rating :** A horizontal bar chart breaks down the number of calls answered based on satisfaction ratings from 1 to 5. Ratings of 3, 4, and 5 have the highest number of calls answered, while ratings of 1 and 2 have lower counts.
 
 
 # **Dashboard :**
